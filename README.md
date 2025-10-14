@@ -1,3 +1,5 @@
+[![CI/CD Pipeline](https://github.com/soydz/as-lab2-ci-cd/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/soydz/as-lab2-ci-cd/actions/workflows/build.yml)
+
 Implementation of a Simple App with the next operations:
 
 * Get random nations
